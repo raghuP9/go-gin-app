@@ -1,4 +1,4 @@
-image: registry.pf9.io/gitpod/workspace-images@sha256:9bb9abd378dc80ad26a3605ba584efa4de30f621fb24ee70b0b34b5852c7b938
+image: registry.pf9.io/gitpod/workspace-images:latest
 ports:
   - port: 8080
     onOpen: open-preview
